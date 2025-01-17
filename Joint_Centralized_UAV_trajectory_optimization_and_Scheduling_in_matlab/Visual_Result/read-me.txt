@@ -1,3 +1,6 @@
 This is a 2-d representaion of UAV Base stations " X " to users " O " in 1000 time steps.
 
 Operation Height of UAVs is fixed, therefore a 2-d representation could be achieved.
+
+every line connecting j-th O with i-th X, means in that specific time step, user j is scheduled and receives service
+from UAV i.
