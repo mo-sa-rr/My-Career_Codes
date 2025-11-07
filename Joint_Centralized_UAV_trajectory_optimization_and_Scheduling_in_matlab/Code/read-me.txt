@@ -1,4 +1,0 @@
-By running Main.m in matlab, a .gif file similar to the one in visual_result folder will be created in the local directory.
-
-number of users, Agents and running time and many more parameters are able to be changed without error in the functionality of the code.
-
