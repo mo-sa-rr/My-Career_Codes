@@ -1,3 +1,5 @@
+This is NOT the results from the main code, it is a minimal non-convex optimization in casADi only to give you the sense.
+
 This is a 2-d representaion of UAV Base stations " X " to users " O " in 1000 time steps.
 
 Operation Height of UAVs is fixed, therefore a 2-d representation could be achieved.
