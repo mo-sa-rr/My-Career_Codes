@@ -1,4 +1,4 @@
-These pieces of code jointly optimizes a complex MINLP problem using Alternating Optimization (AO) + Successive Convex Approximation (SCA).
+These pieces of code jointly optimizes a complex MINLP problem using Alternating Optimization (AO) + Successive Convex Approximation (SCA) in CVXPY.
 
 main.ipynb, initializes the problem and also starts the outer loop per time-steps. 
 
