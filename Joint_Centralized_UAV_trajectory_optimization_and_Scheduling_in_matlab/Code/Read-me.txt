@@ -1,0 +1,11 @@
+This piece of code jointly optimizes a complex MINLP problem using Alternating Optimization (AO) + Successive Convex Approximation (SCA).
+
+main.ipynb, initializes the problem and also starts the outer loop per time-steps. 
+
+grand_solver.py, runs the loop for AO + SCA per time-step, iterating on my_sched.py, my_power.py and my_pos.py
+
+my_sched.py solves the subproblem of user-UAV-band association.
+my_power.py solves jointly for per band UAV transmission power and backhaul center selection.
+my_power.py determines the (local) optimal location for UAVs at time-step n.
+
+
